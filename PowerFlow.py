@@ -12,6 +12,10 @@ import numpy    # Methods for linear algebra
 #
 #############################
 
+##New function
+#Adding an additional function here to show new funcitonality in the code
+#end hooray!
+
 ###################
 #
 # Constants
